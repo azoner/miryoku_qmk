@@ -9,3 +9,7 @@ jobs:
     uses: ./.github/workflows/main.yml
     with:
       keyboard: '["crkbd"]'
+      alphas: '["default"]'
+      nav: '["default"]'
+      clipboard: '["default"]'
+      layers: '["default"]'
